@@ -1,0 +1,6 @@
+[submodule "BT2"]
+	path = BT2
+	url = https://github.com/KanVux/CT300-PTTM-BT2.git
+[submodule "BT1"]
+	path = BT1
+	url = https://github.com/KanVux/CT300-PTTM-BT1.git
